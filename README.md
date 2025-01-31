@@ -1,3 +1,4 @@
+
 # UniAssist  AI Agent Documentation
 
 ## Overview
@@ -87,4 +88,6 @@ It leverages AI models and various tools to deliver relevant and structured info
 
 ## Conclusion
 UniAssist is a powerful AI agent designed to assist students, faculty, and job seekers by providing instant information, drafting professional emails, and fetching job opportunities efficiently. The system ensures structured responses and an easy-to-use interface for enhanced user experience.
+=======
+>>>>>>> 12b2a37a5a9015f58c36b75bf72cf7c2b0d92fd1
 
